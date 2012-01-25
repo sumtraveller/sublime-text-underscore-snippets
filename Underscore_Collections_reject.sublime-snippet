@@ -1,0 +1,9 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.reject(${1:list}, function(${20:val}){
+    return ${0: boolean-condition};
+});]]></content>
+    <tabTrigger>_reject</tabTrigger>
+    <scope>source.js</scope>
+    <description>reject -- opposite of filter </description>
+</snippet>

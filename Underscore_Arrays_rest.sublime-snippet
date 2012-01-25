@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.rest(${1:array} ${5:/*, optional-index */});$0]]></content>
+    <tabTrigger>_last</tabTrigger>
+    <scope>source.js</scope>
+    <description>last (Alias: tail)</description>
+</snippet>

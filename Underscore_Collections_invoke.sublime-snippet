@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.invoke(${1:list}, ${5:methodName}, ${20:opt-arguments})]]></content>
+    <tabTrigger>_invoke</tabTrigger>
+    <scope>source.js</scope>
+    <description>invoke (invokes named method on each, opt:arguments passed to each)</description>
+</snippet>

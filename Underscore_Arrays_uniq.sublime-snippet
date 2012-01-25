@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.uniq(${1:array}${5:, isSorted:true/false }${10:, function(value)\{ /*transform*/ return value; \} });$0]]></content>
+    <tabTrigger>_uniq</tabTrigger>
+    <scope>source.js</scope>
+    <description>uniq </description>
+</snippet>

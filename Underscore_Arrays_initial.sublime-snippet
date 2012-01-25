@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.initial(${1:array} ${5:/*, optional-n-elements*/});$0]]></content>
+    <tabTrigger>_initial</tabTrigger>
+    <scope>source.js</scope>
+    <description>initial (exclude all but last n:1)</description>
+</snippet>

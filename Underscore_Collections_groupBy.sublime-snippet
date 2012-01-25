@@ -1,0 +1,9 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.groupBy(${1:list}, function(){
+       return ${0:valueToGroupBy};
+});]]></content>
+    <tabTrigger>_groupBy</tabTrigger>
+    <scope>source.js</scope>
+    <description>groupBy </description>
+</snippet>

@@ -1,0 +1,9 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.sortBy(${1:list}, function(value){
+       return ${0:valueToSortBy};
+});]]></content>
+    <tabTrigger>_sortBy</tabTrigger>
+    <scope>source.js</scope>
+    <description>sortBy</description>
+</snippet>
