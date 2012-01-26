@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.memoize(${1:function}${5:, *optional-hashfunction});$0]]></content>
+    <tabTrigger>_memoize</tabTrigger>
+    <scope>source.js</scope>
+    <description>memoize </description>
+</snippet>

@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.times(${1:n}, ${5:function});$0]]></content>
+    <tabTrigger>_times</tabTrigger>
+    <scope>source.js</scope>
+    <description>times </description>
+</snippet>

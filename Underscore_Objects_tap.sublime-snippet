@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.tap(${1:interceptor-function});$0]]></content>
+    <tabTrigger>_tap</tabTrigger>
+    <scope>source.js</scope>
+    <description>tap </description>
+</snippet>
